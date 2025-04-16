@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🏢 Front-End Developer specializing in Angular, building responsive and scalable web applications with a focus on performance and user experience.<br>📚  Constantly learning advanced Angular concepts like NgRx and RxJS, with a strong foundation in HTML, CSS, JavaScript, and TypeScript.<br>✨ Skilled in Angular, Angular Material, Tailwind CSS, Bootstrap, REST APIs, and modern front-end architecture.<br>🎯Contribute to impactful projects, master full-stack skills, and become a key player in modern web development.</p>
+<p align="left">🏢 Front-End Developer(Angular) , building responsive and scalable web applications with a focus on performance and user experience.<br>📚  Constantly learning advanced Angular concepts like NgRx and RxJS, with a strong foundation in HTML, CSS, JavaScript, and TypeScript.<br>✨ Skilled in Angular, Angular Material, Tailwind CSS, Bootstrap, REST APIs, and modern front-end architecture.<br>🎯Contribute to impactful projects, master full-stack skills, and become a key player in modern web development.</p>
 
 ###
 
